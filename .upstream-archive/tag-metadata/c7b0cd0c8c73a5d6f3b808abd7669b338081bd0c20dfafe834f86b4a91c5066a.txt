@@ -1,0 +1,6 @@
+Original tag name: frizti-v3
+Original tag object: 72e5ad6c22ea5b159b44a184d4dea6b669df0ede
+Original target commit: 72e5ad6c22ea5b159b44a184d4dea6b669df0ede
+Original object type: commit
+
+Lightweight tag; the original target commit is recorded above.
