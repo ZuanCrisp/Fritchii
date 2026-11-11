@@ -1,0 +1,6 @@
+Original tag name: fritchii-v5.8.3
+Original tag object: e2dad308a66e9453130bdb187712f14878e7eed2
+Original target commit: e2dad308a66e9453130bdb187712f14878e7eed2
+Original object type: commit
+
+Lightweight tag; the original target commit is recorded above.
