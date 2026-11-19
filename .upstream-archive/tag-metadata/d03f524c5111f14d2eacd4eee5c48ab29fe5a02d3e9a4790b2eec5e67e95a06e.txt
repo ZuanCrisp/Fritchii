@@ -1,0 +1,12 @@
+Original tag name: fritchii-v6.2
+Original tag object: 647e04c21a019545f3608b01730bcd70ce5b9534
+Original target commit: 16396c8813fed6de50f6062f56ad3bc924044289
+Original object type: tag
+
+--- Original annotated tag object body ---
+object 16396c8813fed6de50f6062f56ad3bc924044289
+type commit
+tag fritchii-v6.2
+tagger Frizti <FriztiMouche@gmail.com> 1795072673 +0100
+
+Fritchii v6.2
